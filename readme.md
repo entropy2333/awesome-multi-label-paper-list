@@ -7,21 +7,30 @@ A curated list of papers multi-label classification papers.
 ## Related Resources
 
 - [AAAI 2022 Accepted Papers](https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf)
+- Semantic Scholar: https://www.semanticscholar.org
+- Google ScholarL: https://scholar.google.com
+- Bing Academic: https://cn.bing.com/academic
+- Connected Papers: https://www.connectedpapers.com
+- Papers with Code: https://paperswithcode.com
+- Research Papers: https://papers.labml.ai/conferences
+- Deeplearning Monitor: https://deeplearn.org
+- OpenReview: https://openreview.net
 
 ## Datasets
 
-| Cat. | Name          | Title                                                                          | Links |
-|:----:| ------------- | ------------------------------------------------------------------------------ |:-----:|
-| NLP  | RCV1-v2       | Rcv1: A new benchmark collection for text categorization research              |       |
-| NLP  | AAPD          | SGM: Sequence Generation Model for Multi-label Classification                  |       |
-| NLP  | Reuters-21578 | An analysis of the relative hardness of Reuters‐21578 subsets                  |       |
-| NLP  | RMSC          | Driven Multi-Label Music Style Classification by Exploiting Style Correlations |       |
-| NLP  | Emotion       | GoEmotions: A dataset of fine-grained emotions                                 |       |
+| Cat. | Name          | Title                                                                          |                              Links                               |
+|:----:| ------------- | ------------------------------------------------------------------------------ |:----------------------------------------------------------------:|
+| NLP  | RCV1-v2       | Rcv1: A new benchmark collection for text categorization research              | [[paper]](https://jmlr.org/papers/volume5/lewis04a/lewis04a.pdf) |
+| NLP  | AAPD          | SGM: Sequence Generation Model for Multi-label Classification                  |                                                                  |
+| NLP  | Reuters-21578 | An analysis of the relative hardness of Reuters‐21578 subsets                  |                                                                  |
+| NLP  | RMSC          | Driven Multi-Label Music Style Classification by Exploiting Style Correlations |                                                                  |
+| NLP  | Emotion       | GoEmotions: A dataset of fine-grained emotions                                 |                                                                  |
 
 ## Transformer-Based
 
 | Cat. |     Pub.     | Year | Title                                                                                           |                                                                                                Links                                                                                                |
 |:----:|:------------:|:----:| ----------------------------------------------------------------------------------------------- |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| NLP  |   ACL ARR    | 2022 | HCL-MTC Hierarchical Contrastive Learning for Multi-label Text Classification                   |                                                                        [[paper]](https://openreview.net/pdf?id=R1BifFIieBP)                                                                         |
 | NLP  |    Arxiv     | 2021 | Hierarchy Decoder is All You Need To Text Classification                                        |                                                                          [[paper]](https://arxiv.org/pdf/2111.11104v1.pdf)                                                                          |
 |  CV  |    Arxiv     | 2021 | ML-Decoder: Scalable and Versatile Classification Head                                          |                                                [[paper]](https://arxiv.org/pdf/2111.12933v1.pdf)[[code]](https://github.com/alibaba-miil/ml_decoder)                                                |
 |  CV  |    Arxiv     | 2021 | Query2Label: A Simple Transformer Way to Multi-Label Classification                             |                                                 [[paper]](https://arxiv.org/pdf/2107.10834v1.pdf)[[code]](https://github.com/SlongLiu/query2labels)                                                 |
