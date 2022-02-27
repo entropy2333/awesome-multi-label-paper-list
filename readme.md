@@ -10,7 +10,7 @@ Paperswithcode links will be preferred.
 
 - [AAAI 2022 Accepted Papers](https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf)
 - Semantic Scholar: https://www.semanticscholar.org
-- Google ScholarL: https://scholar.google.com
+- Google Scholar: https://scholar.google.com
 - Bing Academic: https://cn.bing.com/academic
 - Connected Papers: https://www.connectedpapers.com
 - Papers with Code: https://paperswithcode.com
@@ -32,20 +32,23 @@ Paperswithcode links will be preferred.
 
 ## Transformer-Based
 
-| Cat. |     Pub.     | Year | Title                                                                                           |                                                 Links                                                 |
-|:----:|:------------:|:----:| ----------------------------------------------------------------------------------------------- |:-----------------------------------------------------------------------------------------------------:|
-| NLP  |   ACL ARR    | 2022 | HCL-MTC Hierarchical Contrastive Learning for Multi-label Text Classification                   |                         [[paper]](https://openreview.net/pdf?id=R1BifFIieBP)                          |
-| NLP  |    Arxiv     | 2021 | Hierarchy Decoder is All You Need To Text Classification                                        |                           [[paper]](https://arxiv.org/pdf/2111.11104v1.pdf)                           |
-|  CV  |    Arxiv     | 2021 | ML-Decoder: Scalable and Versatile Classification Head                                          | [[paper]](https://arxiv.org/pdf/2111.12933v1.pdf)[[code]](https://github.com/alibaba-miil/ml_decoder) |
-|  CV  |    Arxiv     | 2021 | Query2Label: A Simple Transformer Way to Multi-Label Classification                             |  [[paper]](https://arxiv.org/pdf/2107.10834v1.pdf)[[code]](https://github.com/SlongLiu/query2labels)  |
-|  CV  |    Arxiv     | 2021 | MlTr: Multi-label Classification with Transformer                                               |     [[paper]](https://arxiv.org/pdf/2106.06195v1.pdf)[[code]](https://github.com/starmemda/MlTr)      |
-| NLP  |    Arxiv     | 2021 | Hierarchy-Aware T5 with Path-Adaptive Mask Mechanism for Hierarchical Text Classification       |                            [[paper]](https://arxiv.org/pdf/2109.08585.pdf)                            |
-| NLP  |    Arxiv     | 2021 | Label Mask for Multi-Label Text Classification                                                  |                            [[paper]](https://arxiv.org/pdf/2106.10076.pdf)                            |
-|  CV  |     ICCV     | 2021 | Transformer-based Dual Relation Graph for Multi-label Image Recognition                         |        [[link]](https://paperswithcode.com/paper/transformer-based-dual-relation-graph-for-1)         |
-| NLP  |    IJCAI     | 2021 | Correlation-Guided Representation for Multi-Label Text Classification                           |                      [[paper]](https://www.ijcai.org/proceedings/2021/0463.pdf)                       |
-| NLP  | ACL Findings | 2021 | Enhancing Label Correlation Feedback in Multi-Label Text Classification via Multi-Task Learning |      [[paper]](https://arxiv.org/pdf/2106.03103.pdf)[[code]](https://github.com/EiraZhang/LACO)       |
-|  CV  |     CVPR     | 2021 | General Multi-Label Image Classification With Transformers                                      |        [[link]](https://paperswithcode.com/paper/general-multi-label-image-classification-with)         |
-|  CV  |     ACMM     | 2021 | M3TR: Multi-modal Multi-label Recognition with Transformer                                      |                     [[paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475191)                     |
+| Cat. |     Pub.     | Year | Title                                                                                             |                                                                                        Links                                                                                        |
+|:----:|:------------:|:----:| ------------------------------------------------------------------------------------------------- |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  MM  |     AAAI     | 2022 | Tailor Versatile Multi-modal Learning for Multi-label Emotion Recognition                         |                                             [[paper]](https://arxiv.org/pdf/2201.05834.pdf)[[code]](https://github.com/kniter1/TAILOR)                                              |
+| NLP  |   ACL ARR    | 2022 | HCL-MTC Hierarchical Contrastive Learning for Multi-label Text Classification                     |                                                                [[paper]](https://openreview.net/pdf?id=R1BifFIieBP)                                                                 |
+| NLP  |     ECIR     | 2021 | A Multi-Task Approach to Neural Multi-Label Hierarchical Patent Classification using Transformers | [[paper]](https://annefried.github.io/files/hierarchical_patent_classification_ecir2021.pdf)[[code]](https://github.com/boschresearch/hierarchical_patent_classification_ecir2021/) |
+| NLP  |    Arxiv     | 2021 | Hierarchy Decoder is All You Need To Text Classification                                          |                                                                  [[paper]](https://arxiv.org/pdf/2111.11104v1.pdf)                                                                  |
+|  CV  |    Arxiv     | 2021 | ML-Decoder: Scalable and Versatile Classification Head                                            |                                        [[paper]](https://arxiv.org/pdf/2111.12933v1.pdf)[[code]](https://github.com/alibaba-miil/ml_decoder)                                        |
+|  CV  |    Arxiv     | 2021 | Query2Label: A Simple Transformer Way to Multi-Label Classification                               |                                         [[paper]](https://arxiv.org/pdf/2107.10834v1.pdf)[[code]](https://github.com/SlongLiu/query2labels)                                         |
+|  CV  |    Arxiv     | 2021 | MlTr: Multi-label Classification with Transformer                                                 |                                            [[paper]](https://arxiv.org/pdf/2106.06195v1.pdf)[[code]](https://github.com/starmemda/MlTr)                                             |
+| NLP  |     ICDM     | 2021 | Expert Knowledge-Guided Length-Variant Hierarchical Label Generation for Proposal Classification  | [[paper]](https://arxiv.org/pdf/2109.06661v2.pdf)                                                                                                                                                                                    |
+| NLP  |    Arxiv     | 2021 | Hierarchy-Aware T5 with Path-Adaptive Mask Mechanism for Hierarchical Text Classification         |                                                                   [[paper]](https://arxiv.org/pdf/2109.08585.pdf)                                                                   |
+| NLP  |    Arxiv     | 2021 | Label Mask for Multi-Label Text Classification                                                    |                                                                   [[paper]](https://arxiv.org/pdf/2106.10076.pdf)                                                                   |
+|  CV  |     ICCV     | 2021 | Transformer-based Dual Relation Graph for Multi-label Image Recognition                           |                                               [[link]](https://paperswithcode.com/paper/transformer-based-dual-relation-graph-for-1)                                                |
+| NLP  |    IJCAI     | 2021 | Correlation-Guided Representation for Multi-Label Text Classification                             |                                                             [[paper]](https://www.ijcai.org/proceedings/2021/0463.pdf)                                                              |
+| NLP  | ACL Findings | 2021 | Enhancing Label Correlation Feedback in Multi-Label Text Classification via Multi-Task Learning   |                                             [[paper]](https://arxiv.org/pdf/2106.03103.pdf)[[code]](https://github.com/EiraZhang/LACO)                                              |
+|  CV  |     CVPR     | 2021 | General Multi-Label Image Classification With Transformers                                        |                                              [[link]](https://paperswithcode.com/paper/general-multi-label-image-classification-with)                                               |
+|  MM  |     ACMM     | 2021 | M3TR: Multi-modal Multi-label Recognition with Transformer                                        |                                                            [[paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475191)                                                            |
 
 ## Graph-Based
 
@@ -69,7 +72,7 @@ Paperswithcode links will be preferred.
 |:----:|:-----:|:----:| ----------------------------------------------------------------------------------------- |:-------------------------------------------------------------------------------------------------------------:|
 |  CV  | Arxiv | 2021 | Multi-label Classification with Partial Annotations using Class-aware Selective Loss      | [[paper]](https://arxiv.org/pdf/2110.10955v1.pdf)[[code]](https://github.com/alibaba-miil/partiallabelingcsl) |
 | NLP  | EMNLP | 2021 | Balancing Methods for Multi-label Text Classification with Long-Tailed Class Distribution | [[paper]](https://aclanthology.org/2021.emnlp-main.643.pdf)[[code]](https://github.com/Roche/BalancedLossNLP) |
-|  CV  | ICCV  | 2021 | Asymmetric Loss For Multi-Label Classification                                            |          [[paer]](https://arxiv.org/pdf/2009.14119.pdf)[[code]](https://github.com/Alibaba-MIIL/ASL)          |
+|  CV  | ICCV  | 2021 | Asymmetric Loss For Multi-Label Classification                                            |          [[paper]](https://arxiv.org/pdf/2009.14119.pdf)[[code]](https://github.com/Alibaba-MIIL/ASL)          |
 
 ## XMLC
 
@@ -90,6 +93,7 @@ Paperswithcode links will be preferred.
 
 | Cat. | Pub.  | Year | Title                                                                                                              |                                                              Links                                                              |
 | ---- | ----- | ---- | ------------------------------------------------------------------------------------------------------------------ |:-------------------------------------------------------------------------------------------------------------------------------:|
+| NLP  | ACL   | 2021 | Concept-Based Label Embedding via Dynamic Routing for Hierarchical Text Classification                             |          [[paper]](https://aclanthology.org/2021.acl-long.388.pdf)[[code]](https://github.com/wxpkanon/CLEDforHTC.git)          |
 | NLP  | IPM   | 2021 | A novel reasoning mechanism for multi-label text classification                                                    |                         [[paper]](https://www.sciencedirect.com/science/article/pii/S0306457320309341)                          |
 | CV   | Arxiv | 2021 | Multi-layered Semantic Representation Network for Multi-label Image Classification                                 |                  [[paper]](https://arxiv.org/pdf/2106.11596v1.pdf)[[code]](https://github.com/chehao2628/MSRN)                  |
 | NLP  | EACL  | 2021 | Joint Learning of Hyperbolic Label Embeddings for Hierarchical Multi-label Classification                          | [[paper]](https://aclanthology.org/2021.eacl-main.247.pdf)[[code]](https://github.com/soumyac1999/hyperbolic-label-emb-for-hmc) |
