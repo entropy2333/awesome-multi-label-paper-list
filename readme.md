@@ -20,21 +20,23 @@ Paperswithcode links will be preferred.
 
 ## Datasets
 
-| Cat. |     Name      | Title                                                                          |                                        Links                                        |
-|:----:|:-------------:| ------------------------------------------------------------------------------ |:-----------------------------------------------------------------------------------:|
-| NLP  |    RCV1-v2    | Rcv1: A new benchmark collection for text categorization research              |          [[paper]](https://jmlr.org/papers/volume5/lewis04a/lewis04a.pdf)           |
-| NLP  |     AAPD      | SGM: Sequence Generation Model for Multi-label Classification                  |                                                                                     |
-| NLP  | Reuters-21578 | An analysis of the relative hardness of Reuters‐21578 subsets                  |                                                                                     |
-| NLP  |     RMSC      | Driven Multi-Label Music Style Classification by Exploiting Style Correlations |                                                                                     |
-| NLP  |    Emotion    | GoEmotions: A dataset of fine-grained emotions                                 |                                                                                     |
-|  CV  |   Sewer-ML    | Sewer-ML: A Multi-Label Sewer Defect Classification Dataset and Benchmark      |   [[link]](https://paperswithcode.com/paper/sewer-ml-a-multi-label-sewer-defect)    |
-|  CV  |    MS-COCO    | Microsoft COCO: Common Objects in Context                                      | [[link]](https://paperswithcode.com/paper/microsoft-coco-common-objects-in-context) |
+| Cat. |     Name      | Title                                                                          |                                         Links                                         |
+|:----:|:-------------:| ------------------------------------------------------------------------------ |:-------------------------------------------------------------------------------------:|
+| NLP  |    RCV1-v2    | Rcv1: A new benchmark collection for text categorization research              |           [[paper]](https://jmlr.org/papers/volume5/lewis04a/lewis04a.pdf)            |
+| NLP  |     AAPD      | SGM: Sequence Generation Model for Multi-label Classification                  |                                                                                       |
+| NLP  |      WOS      | HDLTex: Hierarchical Deep Learning for Text Classification                     | [[link]](https://paperswithcode.com/paper/hdltex-hierarchical-deep-learning-for-text) |
+| NLP  | Reuters-21578 | An analysis of the relative hardness of Reuters‐21578 subsets                  |                                                                                       |
+| NLP  |     RMSC      | Driven Multi-Label Music Style Classification by Exploiting Style Correlations |                                                                                       |
+| NLP  |    Emotion    | GoEmotions: A dataset of fine-grained emotions                                 |                                                                                       |
+|  CV  |   Sewer-ML    | Sewer-ML: A Multi-Label Sewer Defect Classification Dataset and Benchmark      |    [[link]](https://paperswithcode.com/paper/sewer-ml-a-multi-label-sewer-defect)     |
+|  CV  |    MS-COCO    | Microsoft COCO: Common Objects in Context                                      |  [[link]](https://paperswithcode.com/paper/microsoft-coco-common-objects-in-context)  |
 
 ## Survey
 
 | Year | Title                                       |                      Links                      |
 | ---- | ------------------------------------------- |:-----------------------------------------------:|
 | 2020 | The Emerging Trends of Multi-Label Learning | [[paper]](https://arxiv.org/pdf/2011.11197.pdf) |
+| 2019 | Survey on Multi-Output Learning             |   [[paper]](http://arxiv.org/pdf/1901.00248)    |
 
 ## Toolkit
 
@@ -106,9 +108,10 @@ Paperswithcode links will be preferred.
 
 
 ### Few/Zero shot
-| Cat. | Pub.  | Year | Title                                                                                   | Links |     |
-|:----:|:-----:| ---- | --------------------------------------------------------------------------------------- |:-----:| --- |
-|      | EMNLP | 2020 | Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graphs |       |   [[paper]](https://aclanthology.org/2020.emnlp-main.235.pdf)[[code]](https://github.com/MemoriesJ/KAMG) |
+| Cat. | Pub.  | Year | Title                                                                                                                  |                                                     Links                                                      |
+|:----:|:-----:| ---- | ---------------------------------------------------------------------------------------------------------------------- |:--------------------------------------------------------------------------------------------------------------:|
+| NLP  | NAACL | 2021 | Improving Pretrained Models for Zero-shot Multi-label Text Classification through Reinforced Label Hierarchy Reasoning | [[paper]](https://aclanthology.org/2021.naacl-main.83.pdf)[[code]](https://github.com/layneins/Zero-shot-RLHR) |
+| NLP  | EMNLP | 2020 | Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graphs                                |     [[paper]](https://aclanthology.org/2020.emnlp-main.235.pdf)[[code]](https://github.com/MemoriesJ/KAMG)     |
 
 
 ### Other
@@ -124,4 +127,5 @@ Paperswithcode links will be preferred.
 |  CV  | ICCV  | 2021 | Residual Attention: A Simple but Effective Method for Multi-Label Recognition                                      |                      [[link]](https://paperswithcode.com/paper/residual-attention-a-simple-but-effective)                       |
 | NLP  | NLPCC | 2020 | Label-Wise Document Pre-Training for Multi-Label Text Classification                                               |                  [[paper]](https://arxiv.org/pdf/2008.06695v1.pdf)[[code]](https://github.com/laddie132/LW-PT)                  |
 |  CV  | AAAI  | 2020 | Multi-Label Classification with Label Graph Superimposing                                                          |                  [[paper]](https://arxiv.org/pdf/1911.09243v1.pdf)[[code]](https://github.com/mathkey/mssnet)                   |
+| NLP  | ICMLA | 2017 | HDLTex: Hierarchical Deep Learning for Text Classification                                                         |                      [[link]](https://paperswithcode.com/paper/hdltex-hierarchical-deep-learning-for-text)                      |
 | NLP  | NAACL | 2016 | Improved Neural Network-based Multi-label Classification with Better Initialization Leveraging Label Co-occurrence |                                        [[paper]](https://aclanthology.org/N16-1063.pdf)                                         |
