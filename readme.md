@@ -9,6 +9,8 @@ Paperswithcode links will be preferred.
 ## Related Resources
 
 - [AAAI 2022 Accepted Papers](https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf)
+- [ACL 2022 Accepted Papers](https://www.2022.aclweb.org/papers)
+- [CVPR 2022 Accepted Papers](https://cvpr2022.thecvf.com/accepted-papers)
 - Semantic Scholar: https://www.semanticscholar.org
 - Google Scholar: https://scholar.google.com
 - Bing Academic: https://cn.bing.com/academic
@@ -17,6 +19,7 @@ Paperswithcode links will be preferred.
 - Research Papers: https://papers.labml.ai/conferences
 - Deeplearning Monitor: https://deeplearn.org
 - OpenReview: https://openreview.net
+- OpenResearch: https://www.openresearch.org
 
 ## Datasets
 
@@ -72,7 +75,7 @@ Paperswithcode links will be preferred.
 
 | Cat. |  Pub.   | Year | Title                                                                                                                            |                                                  Links                                                   |
 |:----:|:-------:|:----:| -------------------------------------------------------------------------------------------------------------------------------- |:--------------------------------------------------------------------------------------------------------:|
-| NLP  |  Arxiv  | 2022 | Incorporating Hierarchy into Text Encoder: a Contrastive Learning Approach for Hierarchical Text Classification                  |                            [[paper]](https://arxiv.org/pdf/2203.03825v2.pdf)                             |
+| NLP  |   ACL   | 2022 | Incorporating Hierarchy into Text Encoder: a Contrastive Learning Approach for Hierarchical Text Classification                  |          [[link]](https://paperswithcode.com/paper/incorporating-hierarchy-into-text-encoder-a)          |
 |  CV  |  AAAI   | 2021 | Modular Graph Transformer Networks for Multi-Label Image Classification                                                          |                    [[paper]](https://people.cs.umu.se/sonvx/files/2021_AAAI_MGTN.pdf)                    |
 | NLP  | ACL-ARR | 2021 | Multi-Label Text Classification by Graph Neural Network with Mixing Operations                                                   |                           [[paper]](https://openreview.net/pdf?id=XT4BaluDTo)                            |
 | NLP  |  Arxiv  | 2021 | Heterogeneous Graph Neural Networks for Multi-label Text Classification                                                          |                            [[paper]](https://arxiv.org/pdf/2103.14620v1.pdf)                             |
@@ -123,17 +126,19 @@ Paperswithcode links will be preferred.
 
 ### Others
 
-| Cat. | Pub.  | Year | Title                                                                                                              |                                                              Links                                                              |
-|:----:|:-----:| ---- | ------------------------------------------------------------------------------------------------------------------ |:-------------------------------------------------------------------------------------------------------------------------------:|
-| NLP  | NAACL | 2021 | TaxoClass: Hierarchical Multi-Label Text Classification Using Only Class Names                                     |                       [[link]](https://paperswithcode.com/paper/taxoclass-hierarchical-multi-label-text)                        |
-| NLP  |  ACL  | 2021 | Concept-Based Label Embedding via Dynamic Routing for Hierarchical Text Classification                             |          [[paper]](https://aclanthology.org/2021.acl-long.388.pdf)[[code]](https://github.com/wxpkanon/CLEDforHTC.git)          |
-| NLP  |  IPM  | 2021 | A novel reasoning mechanism for multi-label text classification                                                    |                         [[paper]](https://www.sciencedirect.com/science/article/pii/S0306457320309341)                          |
-|  CV  | Arxiv | 2021 | Multi-layered Semantic Representation Network for Multi-label Image Classification                                 |                  [[paper]](https://arxiv.org/pdf/2106.11596v1.pdf)[[code]](https://github.com/chehao2628/MSRN)                  |
-| NLP  | EACL  | 2021 | Joint Learning of Hyperbolic Label Embeddings for Hierarchical Multi-label Classification                          | [[paper]](https://aclanthology.org/2021.eacl-main.247.pdf)[[code]](https://github.com/soumyac1999/hyperbolic-label-emb-for-hmc) |
-| NLP  | NAACL | 2021 | Modeling Diagnostic Label Correlation for Automatic ICD Coding                                                     |         [[paper]](https://aclanthology.org/2021.naacl-main.318.pdf)[[code]](https://github.com/MiuLab/ICD-Correlation)          |
-| NLP  | NAACL | 2021 | HTCInfoMax: A Global Model for Hierarchical Text Classification via Information Maximization                       |         [[paper]](https://aclanthology.org/2021.naacl-main.260.pdf)[[code]](https://github.com/RingBDStack/HTCInfoMax)          |
-|  CV  | ICCV  | 2021 | Residual Attention: A Simple but Effective Method for Multi-Label Recognition                                      |                      [[link]](https://paperswithcode.com/paper/residual-attention-a-simple-but-effective)                       |
-| NLP  | NLPCC | 2020 | Label-Wise Document Pre-Training for Multi-Label Text Classification                                               |                  [[paper]](https://arxiv.org/pdf/2008.06695v1.pdf)[[code]](https://github.com/laddie132/LW-PT)                  |
-|  CV  | AAAI  | 2020 | Multi-Label Classification with Label Graph Superimposing                                                          |                  [[paper]](https://arxiv.org/pdf/1911.09243v1.pdf)[[code]](https://github.com/mathkey/mssnet)                   |
-| NLP  | ICMLA | 2017 | HDLTex: Hierarchical Deep Learning for Text Classification                                                         |                      [[link]](https://paperswithcode.com/paper/hdltex-hierarchical-deep-learning-for-text)                      |
-| NLP  | NAACL | 2016 | Improved Neural Network-based Multi-label Classification with Better Initialization Leveraging Label Co-occurrence |                                        [[paper]](https://aclanthology.org/N16-1063.pdf)                                         |
+| Cat. |  Pub.  | Year | Title                                                                                                              |                                                              Links                                                              |
+|:----:|:------:| ---- | ------------------------------------------------------------------------------------------------------------------ |:-------------------------------------------------------------------------------------------------------------------------------:|
+| NLP  | NAACL  | 2021 | TaxoClass: Hierarchical Multi-Label Text Classification Using Only Class Names                                     |                       [[link]](https://paperswithcode.com/paper/taxoclass-hierarchical-multi-label-text)                        |
+| NLP  |  ACL   | 2021 | Concept-Based Label Embedding via Dynamic Routing for Hierarchical Text Classification                             |          [[paper]](https://aclanthology.org/2021.acl-long.388.pdf)[[code]](https://github.com/wxpkanon/CLEDforHTC.git)          |
+| NLP  |  IPM   | 2021 | A novel reasoning mechanism for multi-label text classification                                                    |                         [[paper]](https://www.sciencedirect.com/science/article/pii/S0306457320309341)                          |
+|  CV  | Arxiv  | 2021 | Multi-layered Semantic Representation Network for Multi-label Image Classification                                 |                  [[paper]](https://arxiv.org/pdf/2106.11596v1.pdf)[[code]](https://github.com/chehao2628/MSRN)                  |
+| NLP  |  EACL  | 2021 | Joint Learning of Hyperbolic Label Embeddings for Hierarchical Multi-label Classification                          | [[paper]](https://aclanthology.org/2021.eacl-main.247.pdf)[[code]](https://github.com/soumyac1999/hyperbolic-label-emb-for-hmc) |
+| NLP  | NAACL  | 2021 | Modeling Diagnostic Label Correlation for Automatic ICD Coding                                                     |         [[paper]](https://aclanthology.org/2021.naacl-main.318.pdf)[[code]](https://github.com/MiuLab/ICD-Correlation)          |
+| NLP  | NAACL  | 2021 | HTCInfoMax: A Global Model for Hierarchical Text Classification via Information Maximization                       |         [[paper]](https://aclanthology.org/2021.naacl-main.260.pdf)[[code]](https://github.com/RingBDStack/HTCInfoMax)          |
+|  CV  |  ICCV  | 2021 | Residual Attention: A Simple but Effective Method for Multi-Label Recognition                                      |                      [[link]](https://paperswithcode.com/paper/residual-attention-a-simple-but-effective)                       |
+| NLP  | NLPCC  | 2020 | Label-Wise Document Pre-Training for Multi-Label Text Classification                                               |                  [[paper]](https://arxiv.org/pdf/2008.06695v1.pdf)[[code]](https://github.com/laddie132/LW-PT)                  |
+|  CV  |  AAAI  | 2020 | Multi-Label Classification with Label Graph Superimposing                                                          |                  [[paper]](https://arxiv.org/pdf/1911.09243v1.pdf)[[code]](https://github.com/mathkey/mssnet)                   |
+| NLP  | IJCNLP | 2019 | Label-Specific Document Representation for Multi-Label Text Classification                                         |                      [[link]](https://paperswithcode.com/paper/label-specific-document-representation-for)                      |
+| NLP  |  ACL   | 2018 | Joint Embedding of Words and Labels for Text Classification                                                        |                     [[link]](https://paperswithcode.com/paper/joint-embedding-of-words-and-labels-for-text)                     |
+| NLP  | ICMLA  | 2017 | HDLTex: Hierarchical Deep Learning for Text Classification                                                         |                      [[link]](https://paperswithcode.com/paper/hdltex-hierarchical-deep-learning-for-text)                      |
+| NLP  | NAACL  | 2016 | Improved Neural Network-based Multi-label Classification with Better Initialization Leveraging Label Co-occurrence |                                        [[paper]](https://aclanthology.org/N16-1063.pdf)                                         |
