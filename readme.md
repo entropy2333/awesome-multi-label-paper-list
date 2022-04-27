@@ -1,25 +1,8 @@
 # MLC Paper List
 
-A curated list of papers multi-label classification papers.
-
-~~strikethrough~~ means doubtful results or methods.
+A curated list of multi-label classification papers.
 
 Paperswithcode links will be preferred.
-
-## Related Resources
-
-- [AAAI 2022 Accepted Papers](https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf)
-- [ACL 2022 Accepted Papers](https://www.2022.aclweb.org/papers)
-- [CVPR 2022 Accepted Papers](https://cvpr2022.thecvf.com/accepted-papers)
-- Semantic Scholar: https://www.semanticscholar.org
-- Google Scholar: https://scholar.google.com
-- Bing Academic: https://cn.bing.com/academic
-- Connected Papers: https://www.connectedpapers.com
-- Papers with Code: https://paperswithcode.com
-- Research Papers: https://papers.labml.ai/conferences
-- Deeplearning Monitor: https://deeplearn.org
-- OpenReview: https://openreview.net
-- OpenResearch: https://www.openresearch.org
 
 ## Datasets
 
@@ -29,7 +12,7 @@ Paperswithcode links will be preferred.
 | NLP  |     AAPD      | SGM: Sequence Generation Model for Multi-label Classification                  | [[link]](https://paperswithcode.com/paper/sgm-sequence-generation-model-for-multi-label) |
 | NLP  |      WOS      | HDLTex: Hierarchical Deep Learning for Text Classification                     |  [[link]](https://paperswithcode.com/paper/hdltex-hierarchical-deep-learning-for-text)   |
 | NLP  | Reuters-21578 | An analysis of the relative hardness of Reuters‐21578 subsets                  |                [[link]](https://paperswithcode.com/dataset/reuters-21578)                |
-| NLP  |     RMSC      | Driven Multi-Label Music Style Classification by Exploiting Style Correlations |                                                                                          |
+| NLP  |     RMSC      | Driven Multi-Label Music Style Classification by Exploiting Style Correlations |     [[link]](https://paperswithcode.com/paper/review-driven-multi-label-music-style)     |
 | NLP  |  GoEmotions   | GoEmotions: A dataset of fine-grained emotions                                 | [[link]](https://paperswithcode.com/paper/goemotions-a-dataset-of-fine-grained-emotions) |
 |  CV  |   Sewer-ML    | Sewer-ML: A Multi-Label Sewer Defect Classification Dataset and Benchmark      |      [[link]](https://paperswithcode.com/paper/sewer-ml-a-multi-label-sewer-defect)      |
 |  CV  |    MS-COCO    | Microsoft COCO: Common Objects in Context                                      |   [[link]](https://paperswithcode.com/paper/microsoft-coco-common-objects-in-context)    |
@@ -142,3 +125,19 @@ Paperswithcode links will be preferred.
 | NLP  |  ACL   | 2018 | Joint Embedding of Words and Labels for Text Classification                                                        |                     [[link]](https://paperswithcode.com/paper/joint-embedding-of-words-and-labels-for-text)                     |
 | NLP  | ICMLA  | 2017 | HDLTex: Hierarchical Deep Learning for Text Classification                                                         |                      [[link]](https://paperswithcode.com/paper/hdltex-hierarchical-deep-learning-for-text)                      |
 | NLP  | NAACL  | 2016 | Improved Neural Network-based Multi-label Classification with Better Initialization Leveraging Label Co-occurrence |                                        [[paper]](https://aclanthology.org/N16-1063.pdf)                                         |
+
+
+## Related Resources
+
+- [AAAI 2022 Accepted Papers](https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf)
+- [ACL 2022 Accepted Papers](https://www.2022.aclweb.org/papers)
+- [CVPR 2022 Accepted Papers](https://cvpr2022.thecvf.com/accepted-papers)
+- Semantic Scholar: https://www.semanticscholar.org
+- Google Scholar: https://scholar.google.com
+- Bing Academic: https://cn.bing.com/academic
+- Connected Papers: https://www.connectedpapers.com
+- Papers with Code: https://paperswithcode.com
+- Research Papers: https://papers.labml.ai/conferences
+- Deeplearning Monitor: https://deeplearn.org
+- OpenReview: https://openreview.net
+- OpenResearch: https://www.openresearch.org
