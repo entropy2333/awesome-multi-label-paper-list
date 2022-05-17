@@ -16,6 +16,7 @@ Paperswithcode links will be preferred.
 | NLP  |  GoEmotions   | GoEmotions: A dataset of fine-grained emotions                                 | [[link]](https://paperswithcode.com/paper/goemotions-a-dataset-of-fine-grained-emotions) |
 |  CV  |   Sewer-ML    | Sewer-ML: A Multi-Label Sewer Defect Classification Dataset and Benchmark      |      [[link]](https://paperswithcode.com/paper/sewer-ml-a-multi-label-sewer-defect)      |
 |  CV  |    MS-COCO    | Microsoft COCO: Common Objects in Context                                      |   [[link]](https://paperswithcode.com/paper/microsoft-coco-common-objects-in-context)    |
+|  MM  |     M3ED      | M3ED: Multi-modal Multi-scene Multi-label Emotional Dialogue Database          |   [[link]](https://paperswithcode.com/paper/m3ed-multi-modal-multi-scene-multi-label)    |
 
 ## Survey
 
@@ -37,6 +38,9 @@ Paperswithcode links will be preferred.
 
 | Cat. |   Pub.   | Year | Title                                                                                                                      |                                                                                        Links                                                                                        |
 |:----:|:--------:|:----:| -------------------------------------------------------------------------------------------------------------------------- |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| NLP  |   ACL    | 2022 | Improving Multi-label Malevolence Detection in Dialogues through Multi-faceted Label Correlation Enhancement               |                                               [[link]](https://paperswithcode.com/paper/improving-multi-label-malevolence-detection)                                                |
+| NLP  |   ACL    | 2022 | Contrastive Learning-Enhanced Nearest Neighbor Mechanism for Multi-Label Text Classification                               |                                                  [[link]](https://paperswithcode.com/paper/contrastive-learning-enhanced-nearest)                                                   |
+| NLP  |  Arxiv   | 2022 | HPT: Hierarchy-aware Prompt Tuning for Hierarchical Text Classification                                                    |                                                                  [[paper]](https://arxiv.org/pdf/2204.13413v1.pdf)                                                                  |
 |  MM  |   AAAI   | 2022 | Tailor Versatile Multi-modal Learning for Multi-label Emotion Recognition                                                  |                                             [[paper]](https://arxiv.org/pdf/2201.05834.pdf)[[code]](https://github.com/kniter1/TAILOR)                                              |
 | NLP  | ACL-ARR  | 2022 | HCL-MTC Hierarchical Contrastive Learning for Multi-label Text Classification                                              |                                                                [[paper]](https://openreview.net/pdf?id=R1BifFIieBP)                                                                 |
 | NLP  |   ECIR   | 2021 | A Multi-Task Approach to Neural Multi-Label Hierarchical Patent Classification using Transformers                          | [[paper]](https://annefried.github.io/files/hierarchical_patent_classification_ecir2021.pdf)[[code]](https://github.com/boschresearch/hierarchical_patent_classification_ecir2021/) |
@@ -84,6 +88,7 @@ Paperswithcode links will be preferred.
 
 | Cat. | Pub. | Year | Title                                                                                                             |                                            Links                                             |
 |:----:|:----:|:----:| ----------------------------------------------------------------------------------------------------------------- |:--------------------------------------------------------------------------------------------:|
+| NLP  | ACL  | 2022 | Evaluating Extreme Hierarchical Multi-label Classification                                                        |    [[link]](https://paperswithcode.com/paper/evaluating-extreme-hierarchical-multi-label)    |
 | NLP  | AAAI | 2021 | LightXML: Transformer with Dynamic Negative Sampling for High-Performance Extreme Multi-label Text Classification |  [[paper]](https://arxiv.org/pdf/2101.03305.pdf)[[code]](http://github.com/kongds/LightXML)  |
 | NLP  | KDD  | 2020 | Taming Pretrained Transformers for Extreme Multi-label Text Classification                                        | [[paper]](https://arxiv.org/pdf/1905.02331.pdf)[[code]](https://github.com/guoqunabc/X-BERT) |
 | NLP  | KDD  | 2020 | Correlation Networks for Extreme Multi-label Text Classification                                                  |                [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403151)                 |
@@ -94,14 +99,14 @@ Paperswithcode links will be preferred.
 |:----:|:---------:|:----:| -------------------------------------------------------------------------------------------- |:----------------------------------------------------------------------------------------------------:|
 |  CV  |   ICLR    | 2022 | Contrastive Label Disambiguation for Partial Label Learning                                  |       [[link]](https://paperswithcode.com/paper/contrastive-label-disambiguation-for-partial)        |
 |  CV  |   AAAI    | 2022 | Structured Semantic Transfer for Multi-Label Recognition with Partial Labels                 | [[paper]](https://arxiv.org/pdf/2112.10941v2.pdf)[[code]](https://github.com/hcplab-sysu/hcp-mlr-pl) |
-|  CV  |   AAAI    | 2022 | Semantic-Aware Representation Blending for Multi-Label Image Recognition with Partial Labels |                                                                                                      |
+|  CV  |   AAAI    | 2022 | Semantic-Aware Representation Blending for Multi-Label Image Recognition with Partial Labels |        [[link]](https://paperswithcode.com/paper/semantic-aware-representation-blending-for)         |
 |  CV  | Workshops | 2021 | PLM: Partial Label Masking for Imbalanced Multi-label Classification                         |                          [[paper]](https://arxiv.org/pdf/2105.10782v1.pdf)                           |
 
 
 ### Few/Zero shot
 | Cat. | Pub.  | Year | Title                                                                                                                  |                                                       Links                                                        |
 |:----:|:-----:| ---- | ---------------------------------------------------------------------------------------------------------------------- |:------------------------------------------------------------------------------------------------------------------:|
-|      |  KDD  | 2021 | Generalized Zero-Shot Extreme Multi-label Learning                                                                     |                                                                                                                    |
+| NLP  |  KDD  | 2021 | Generalized Zero-Shot Extreme Multi-label Learning                                                                     |               [[link]](https://paperswithcode.com/paper/extreme-zero-shot-learning-for-extreme-text)               |
 |  CV  | CVPR  | 2021 | Multi-Label Learning from Single Positive Labels                                                                       | [[paper]](https://arxiv.org/abs/2106.09708.pdf)[[code]](https://github.com/elijahcole/single-positive-multi-label) |
 | NLP  | NAACL | 2021 | Improving Pretrained Models for Zero-shot Multi-label Text Classification through Reinforced Label Hierarchy Reasoning |   [[paper]](https://aclanthology.org/2021.naacl-main.83.pdf)[[code]](https://github.com/layneins/Zero-shot-RLHR)   |
 | NLP  | EMNLP | 2020 | Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graphs                                |       [[paper]](https://aclanthology.org/2020.emnlp-main.235.pdf)[[code]](https://github.com/MemoriesJ/KAMG)       |
