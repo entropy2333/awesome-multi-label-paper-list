@@ -4,6 +4,8 @@ A curated list of multi-label classification papers.
 
 Paperswithcode links will be preferred.
 
+Welcome contributions!
+
 ## Datasets
 
 | Cat. |     Name      | Title                                                                          |                                          Links                                           |
@@ -30,9 +32,19 @@ Paperswithcode links will be preferred.
 
 | Year | Title                                                                                        |                                                      Links                                                      |
 | ---- | -------------------------------------------------------------------------------------------- |:---------------------------------------------------------------------------------------------------------------:|
+| 2021 | PaddleNLP: An Easy-to-use and High Performance NLP Library | [[repo]](https://github.com/PaddlePaddle/PaddleNLP)[[code]](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/applications/text_classification/multi_label)
 | 2019 | NeuralClassifier: An Open-source Neural Hierarchical Multi-label Text Classification Toolkit | [[paper]](https://aclanthology.org/P19-3015.pdf)[[code]](https://github.com/Tencent/NeuralNLP-NeuralClassifier) |
 
 ## Models
+
+### Prompt-Based
+
+| Cat. |     Pub.     | Year | Title                                                                                                                      |                                                                                        Links                                                                                        |
+|:----:|:------------:|:----:| -------------------------------------------------------------------------------------------------------------------------- |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| NLP  |    Arxiv     | 2022 | HPT: Hierarchy-aware Prompt Tuning for Hierarchical Text Classification                                                    |                                                                  [[paper]](https://arxiv.org/pdf/2204.13413v1.pdf)                                                                  |
+| NLP  |    Springer     | 2021 | Label prompt for multi-label text classification                                                                             |                                                                   [[paper]](https://link.springer.com/article/10.1007/s10489-022-03896-4)                                                                   |
+
+>PaddleNLP Solution: https://github.com/PaddlePaddle/PaddleNLP/tree/develop/applications/text_classification/multi_label/few-shot
 
 ### Transformer-Based
 
@@ -40,7 +52,6 @@ Paperswithcode links will be preferred.
 |:----:|:------------:|:----:| -------------------------------------------------------------------------------------------------------------------------- |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | NLP  |     ACL      | 2022 | Improving Multi-label Malevolence Detection in Dialogues through Multi-faceted Label Correlation Enhancement               |                                               [[link]](https://paperswithcode.com/paper/improving-multi-label-malevolence-detection)                                                |
 | NLP  |     ACL      | 2022 | Contrastive Learning-Enhanced Nearest Neighbor Mechanism for Multi-Label Text Classification                               |                                                  [[link]](https://paperswithcode.com/paper/contrastive-learning-enhanced-nearest)                                                   |
-| NLP  |    Arxiv     | 2022 | HPT: Hierarchy-aware Prompt Tuning for Hierarchical Text Classification                                                    |                                                                  [[paper]](https://arxiv.org/pdf/2204.13413v1.pdf)                                                                  |
 |  MM  |     AAAI     | 2022 | Tailor Versatile Multi-modal Learning for Multi-label Emotion Recognition                                                  |                                             [[paper]](https://arxiv.org/pdf/2201.05834.pdf)[[code]](https://github.com/kniter1/TAILOR)                                              |
 | NLP  |    ICASSP    | 2022 | Multi-relation Message Passing for Multi-label Text Classification                                                         |                                                 [[link]](https://paperswithcode.com/paper/multi-relation-message-passing-for-multi)                                                 |
 | NLP  |     ECIR     | 2021 | A Multi-Task Approach to Neural Multi-Label Hierarchical Patent Classification using Transformers                          | [[paper]](https://annefried.github.io/files/hierarchical_patent_classification_ecir2021.pdf)[[code]](https://github.com/boschresearch/hierarchical_patent_classification_ecir2021/) |
@@ -51,7 +62,6 @@ Paperswithcode links will be preferred.
 |  CV  |    Arxiv     | 2021 | MlTr: Multi-label Classification with Transformer                                                                          |                                                   [[link]](https://paperswithcode.com/paper/mltr-multi-label-classification-with)                                                   |
 | NLP  |     ICDM     | 2021 | Expert Knowledge-Guided Length-Variant Hierarchical Label Generation for Proposal Classification                           |                                                                  [[paper]](https://arxiv.org/pdf/2109.06661v2.pdf)                                                                  |
 | NLP  |    Arxiv     | 2021 | Hierarchy-Aware T5 with Path-Adaptive Mask Mechanism for Hierarchical Text Classification                                  |                                                                   [[paper]](https://arxiv.org/pdf/2109.08585.pdf)                                                                   |
-| NLP  |    Arxiv     | 2021 | Label Mask for Multi-Label Text Classification                                                                             |                                                                   [[paper]](https://arxiv.org/pdf/2106.10076.pdf)                                                                   |
 |  CV  |     ICCV     | 2021 | Transformer-based Dual Relation Graph for Multi-label Image Recognition                                                    |                                               [[link]](https://paperswithcode.com/paper/transformer-based-dual-relation-graph-for-1)                                                |
 | NLP  |    IJCAI     | 2021 | Correlation-Guided Representation for Multi-Label Text Classification                                                      |                                                             [[paper]](https://www.ijcai.org/proceedings/2021/0463.pdf)                                                              |
 | NLP  | ACL Findings | 2021 | Enhancing Label Correlation Feedback in Multi-Label Text Classification via Multi-Task Learning                            |                                              [[link]](https://paperswithcode.com/paper/enhancing-label-correlation-feedback-in-multi)                                               |
