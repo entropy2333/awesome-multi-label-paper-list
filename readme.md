@@ -1,4 +1,4 @@
-# MLC Paper List
+# Awesome Multi-Label Paper List
 
 A curated list of multi-label classification papers.
 
@@ -39,10 +39,11 @@ Welcome contributions!
 
 ### Prompt-Based
 
-| Cat. |     Pub.     | Year | Title                                                                                                                      |                                                                                        Links                                                                                        |
-|:----:|:------------:|:----:| -------------------------------------------------------------------------------------------------------------------------- |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| NLP  |    Arxiv     | 2022 | HPT: Hierarchy-aware Prompt Tuning for Hierarchical Text Classification                                                    |                                                                  [[paper]](https://arxiv.org/pdf/2204.13413v1.pdf)                                                                  |
-| NLP  |    Springer     | 2021 | Label prompt for multi-label text classification                                                                             |                                                                   [[paper]](https://link.springer.com/article/10.1007/s10489-022-03896-4)                                                                   |
+| Cat. |   Pub.   | Year | Title                                                                                  |                                                               Links                                                                |
+|:----:|:--------:|:----:| -------------------------------------------------------------------------------------- |:----------------------------------------------------------------------------------------------------------------------------------:|
+| NLP  |  NLPCC   | 2022 | Prompt-Based Generative Multi-label Emotion Prediction with Label Contrastive Learning | [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-17120-8_43)[[code]](https://github.com/yychai74/Generative-MultiEmo) |
+| NLP  |  Arxiv   | 2022 | HPT: Hierarchy-aware Prompt Tuning for Hierarchical Text Classification                |                                         [[paper]](https://arxiv.org/pdf/2204.13413v1.pdf)                                          |
+| NLP  | Springer | 2021 | Label prompt for multi-label text classification                                       |                              [[paper]](https://link.springer.com/article/10.1007/s10489-022-03896-4)                               |
 
 >PaddleNLP Solution: https://github.com/PaddlePaddle/PaddleNLP/tree/develop/applications/text_classification/multi_label/few-shot
 
@@ -145,9 +146,7 @@ Welcome contributions!
 
 ## Related Resources
 
-- [AAAI 2022 Accepted Papers](https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf)
-- [ACL 2022 Accepted Papers](https://www.2022.aclweb.org/papers)
-- [CVPR 2022 Accepted Papers](https://cvpr2022.thecvf.com/accepted-papers)
+- ACL Anthology: https://aclanthology.org
 - Semantic Scholar: https://www.semanticscholar.org
 - Google Scholar: https://scholar.google.com
 - Bing Academic: https://cn.bing.com/academic
@@ -157,3 +156,4 @@ Welcome contributions!
 - Deeplearning Monitor: https://deeplearn.org
 - OpenReview: https://openreview.net
 - OpenResearch: https://www.openresearch.org
+
