@@ -1,10 +1,30 @@
 # Awesome Multi-Label Paper List
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 A curated list of multi-label classification papers.
 
 Paperswithcode links will be preferred.
 
 Welcome contributions!
+
+## Tabel of Contents
+
+- [Awesome Multi-Label Paper List](#awesome-multi-label-paper-list-)
+  - [Tabel of Contents](#tabel-of-contents)
+  - [Datasets](#datasets)
+  - [Survey](#survey)
+  - [Toolkit](#toolkit)
+  - [Models](#models)
+    - [Prompt-Based](#prompt-based)
+    - [Transformer-Based](#transformer-based)
+    - [Graph-Based](#graph-based)
+    - [Loss-Based](#loss-based)
+    - [XMLC](#xmlc)
+    - [Partial Multi-Label](#partial-multi-label)
+    - [Few/Zero Shot](#fewzero-shot)
+    - [Others](#others)
+  - [Related Resources](#related-resources)
 
 ## Datasets
 
@@ -105,7 +125,7 @@ Welcome contributions!
 | NLP  | KDD  | 2020 | Taming Pretrained Transformers for Extreme Multi-label Text Classification                                        | [[paper]](https://arxiv.org/pdf/1905.02331.pdf)[[code]](https://github.com/guoqunabc/X-BERT) |
 | NLP  | KDD  | 2020 | Correlation Networks for Extreme Multi-label Text Classification                                                  |                [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403151)                 |
 
-### Partial Label (promising)
+### Partial Multi-Label
 
 | Cat. |   Pub.    | Year | Title                                                                                        |                                                Links                                                 |
 |:----:|:---------:|:----:| -------------------------------------------------------------------------------------------- |:----------------------------------------------------------------------------------------------------:|
@@ -115,7 +135,7 @@ Welcome contributions!
 |  CV  | CVPR Workshop | 2021 | PLM: Partial Label Masking for Imbalanced Multi-label Classification                         |                          [[paper]](https://arxiv.org/pdf/2105.10782v1.pdf)                           |
 
 
-### Few/Zero shot
+### Few/Zero Shot
 | Cat. | Pub.  | Year | Title                                                                                                                  |                                                       Links                                                        |
 |:----:|:-----:| ---- | ---------------------------------------------------------------------------------------------------------------------- |:------------------------------------------------------------------------------------------------------------------:|
 | NLP  |  KDD  | 2021 | Generalized Zero-Shot Extreme Multi-label Learning                                                                     |               [[link]](https://paperswithcode.com/paper/extreme-zero-shot-learning-for-extreme-text)               |
