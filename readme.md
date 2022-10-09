@@ -28,17 +28,18 @@ Welcome contributions!
 
 ## Datasets
 
-| Cat. |     Name      | Title                                                                          |                                          Links                                           |
-|:----:|:-------------:| ------------------------------------------------------------------------------ |:----------------------------------------------------------------------------------------:|
-| NLP  |    RCV1-v2    | Rcv1: A new benchmark collection for text categorization research              |                    [[link]](https://paperswithcode.com/dataset/rcv1)                     |
-| NLP  |     AAPD      | SGM: Sequence Generation Model for Multi-label Classification                  | [[link]](https://paperswithcode.com/paper/sgm-sequence-generation-model-for-multi-label) |
-| NLP  |      WOS      | HDLTex: Hierarchical Deep Learning for Text Classification                     |  [[link]](https://paperswithcode.com/paper/hdltex-hierarchical-deep-learning-for-text)   |
-| NLP  | Reuters-21578 | An analysis of the relative hardness of Reuters‐21578 subsets                  |                [[link]](https://paperswithcode.com/dataset/reuters-21578)                |
-| NLP  |     RMSC      | Driven Multi-Label Music Style Classification by Exploiting Style Correlations |     [[link]](https://paperswithcode.com/paper/review-driven-multi-label-music-style)     |
-| NLP  |  GoEmotions   | GoEmotions: A dataset of fine-grained emotions                                 | [[link]](https://paperswithcode.com/paper/goemotions-a-dataset-of-fine-grained-emotions) |
-|  CV  |   Sewer-ML    | Sewer-ML: A Multi-Label Sewer Defect Classification Dataset and Benchmark      |      [[link]](https://paperswithcode.com/paper/sewer-ml-a-multi-label-sewer-defect)      |
-|  CV  |    MS-COCO    | Microsoft COCO: Common Objects in Context                                      |   [[link]](https://paperswithcode.com/paper/microsoft-coco-common-objects-in-context)    |
-|  MM  |     M3ED      | M3ED: Multi-modal Multi-scene Multi-label Emotional Dialogue Database          |   [[link]](https://paperswithcode.com/paper/m3ed-multi-modal-multi-scene-multi-label)    |
+| Cat. |     Name      | Title                                                                          |                                               Links                                               |
+|:----:|:-------------:| ------------------------------------------------------------------------------ |:-------------------------------------------------------------------------------------------------:|
+| NLP  |    RCV1-v2    | Rcv1: A new benchmark collection for text categorization research              |                         [[link]](https://paperswithcode.com/dataset/rcv1)                         |
+| NLP  |     AAPD      | SGM: Sequence Generation Model for Multi-label Classification                  |     [[link]](https://paperswithcode.com/paper/sgm-sequence-generation-model-for-multi-label)      |
+| NLP  |      WOS      | HDLTex: Hierarchical Deep Learning for Text Classification                     |       [[link]](https://paperswithcode.com/paper/hdltex-hierarchical-deep-learning-for-text)       |
+| NLP  | Reuters-21578 | An analysis of the relative hardness of Reuters‐21578 subsets                  |                    [[link]](https://paperswithcode.com/dataset/reuters-21578)                     |
+| NLP  |     RMSC      | Driven Multi-Label Music Style Classification by Exploiting Style Correlations |         [[link]](https://paperswithcode.com/paper/review-driven-multi-label-music-style)          |
+| NLP  |  GoEmotions   | GoEmotions: A dataset of fine-grained emotions                                 |     [[link]](https://paperswithcode.com/paper/goemotions-a-dataset-of-fine-grained-emotions)      |
+|  CV  |   Sewer-ML    | Sewer-ML: A Multi-Label Sewer Defect Classification Dataset and Benchmark      |          [[link]](https://paperswithcode.com/paper/sewer-ml-a-multi-label-sewer-defect)           |
+|  CV  |    MS-COCO    | Microsoft COCO: Common Objects in Context                                      |        [[link]](https://paperswithcode.com/paper/microsoft-coco-common-objects-in-context)        |
+|  MM  |     M3ED      | M3ED: Multi-modal Multi-scene Multi-label Emotional Dialogue Database          |        [[link]](https://paperswithcode.com/paper/m3ed-multi-modal-multi-scene-multi-label)        |
+| NLP  |      BGC      | Hierarchical Multi-label Classification of Text with Capsule Networks          | [[link]](https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/data/blurb-genre-collection.html) |
 
 ## Survey
 
@@ -50,10 +51,10 @@ Welcome contributions!
 
 ## Toolkit
 
-| Year | Title                                                                                        |                                                      Links                                                      |
-| ---- | -------------------------------------------------------------------------------------------- |:---------------------------------------------------------------------------------------------------------------:|
-| 2021 | PaddleNLP: An Easy-to-use and High Performance NLP Library | [[repo]](https://github.com/PaddlePaddle/PaddleNLP)[[code]](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/applications/text_classification/multi_label)
-| 2019 | NeuralClassifier: An Open-source Neural Hierarchical Multi-label Text Classification Toolkit | [[paper]](https://aclanthology.org/P19-3015.pdf)[[code]](https://github.com/Tencent/NeuralNLP-NeuralClassifier) |
+| Year | Title                                                                                        |                                                                              Links                                                                               |
+| ---- | -------------------------------------------------------------------------------------------- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 2021 | PaddleNLP: An Easy-to-use and High Performance NLP Library                                   | [[repo]](https://github.com/PaddlePaddle/PaddleNLP)[[code]](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/applications/text_classification/multi_label) |
+| 2019 | NeuralClassifier: An Open-source Neural Hierarchical Multi-label Text Classification Toolkit |                         [[paper]](https://aclanthology.org/P19-3015.pdf)[[code]](https://github.com/Tencent/NeuralNLP-NeuralClassifier)                          |
 
 ## Models
 
@@ -61,8 +62,8 @@ Welcome contributions!
 
 | Cat. |   Pub.   | Year | Title                                                                                  |                                                               Links                                                                |
 |:----:|:--------:|:----:| -------------------------------------------------------------------------------------- |:----------------------------------------------------------------------------------------------------------------------------------:|
+| NLP  |  EMNLP   | 2022 | HPT: Hierarchy-aware Prompt Tuning for Hierarchical Text Classification                |                     [[paper]](https://arxiv.org/pdf/2204.13413v1.pdf)[[code]](https://github.com/wzh9969/HPT)                      |
 | NLP  |  NLPCC   | 2022 | Prompt-Based Generative Multi-label Emotion Prediction with Label Contrastive Learning | [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-17120-8_43)[[code]](https://github.com/yychai74/Generative-MultiEmo) |
-| NLP  |  Arxiv   | 2022 | HPT: Hierarchy-aware Prompt Tuning for Hierarchical Text Classification                |                                         [[paper]](https://arxiv.org/pdf/2204.13413v1.pdf)                                          |
 | NLP  | Springer | 2021 | Label prompt for multi-label text classification                                       |                              [[paper]](https://link.springer.com/article/10.1007/s10489-022-03896-4)                               |
 
 >PaddleNLP Solution: https://github.com/PaddlePaddle/PaddleNLP/tree/develop/applications/text_classification/multi_label/few-shot
@@ -166,6 +167,7 @@ Welcome contributions!
 
 ## Related Resources
 
+- AI Paper Collector: https://github.com/MLNLP-World/AI-Paper-Collector
 - ACL Anthology: https://aclanthology.org
 - Semantic Scholar: https://www.semanticscholar.org
 - Google Scholar: https://scholar.google.com
@@ -176,4 +178,5 @@ Welcome contributions!
 - Deeplearning Monitor: https://deeplearn.org
 - OpenReview: https://openreview.net
 - OpenResearch: https://www.openresearch.org
+
 
