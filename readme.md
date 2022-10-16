@@ -10,7 +10,7 @@ Welcome contributions!
 
 ## Tabel of Contents
 
-- [Awesome Multi-Label Paper List](#awesome-multi-label-paper-list-)
+- [Awesome Multi-Label Paper List](#awesome-multi-label-paper-list)
   - [Tabel of Contents](#tabel-of-contents)
   - [Datasets](#datasets)
   - [Survey](#survey)
