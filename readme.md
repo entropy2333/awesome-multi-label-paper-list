@@ -40,6 +40,7 @@ Welcome contributions!
 |  CV  |    MS-COCO    | Microsoft COCO: Common Objects in Context                                      |        [[link]](https://paperswithcode.com/paper/microsoft-coco-common-objects-in-context)        |
 |  MM  |     M3ED      | M3ED: Multi-modal Multi-scene Multi-label Emotional Dialogue Database          |        [[link]](https://paperswithcode.com/paper/m3ed-multi-modal-multi-scene-multi-label)        |
 | NLP  |      BGC      | Hierarchical Multi-label Classification of Text with Capsule Networks          | [[link]](https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/data/blurb-genre-collection.html) |
+| NLP  |   MIMIC-III   | MIMIC-III, a freely accessible critical care database                          |                      [[link]](https://paperswithcode.com/dataset/mimic-iii)                       | 
 
 ## Survey
 
@@ -62,6 +63,7 @@ Welcome contributions!
 
 | Cat. |   Pub.   | Year | Title                                                                                  |                                                               Links                                                                |
 |:----:|:--------:|:----:| -------------------------------------------------------------------------------------- |:----------------------------------------------------------------------------------------------------------------------------------:|
+| NLP  |  Arxiv   | 2022 | Knowledge Injected Prompt Based Fine-tuning for Multi-label Few-shot ICD Coding        |                       [[link]](https://paperswithcode.com/paper/knowledge-injected-prompt-based-fine-tuning)                       |
 | NLP  |  EMNLP   | 2022 | HPT: Hierarchy-aware Prompt Tuning for Hierarchical Text Classification                |                     [[paper]](https://arxiv.org/pdf/2204.13413v1.pdf)[[code]](https://github.com/wzh9969/HPT)                      |
 | NLP  |  NLPCC   | 2022 | Prompt-Based Generative Multi-label Emotion Prediction with Label Contrastive Learning | [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-17120-8_43)[[code]](https://github.com/yychai74/Generative-MultiEmo) |
 | NLP  | Springer | 2021 | Label prompt for multi-label text classification                                       |                              [[paper]](https://link.springer.com/article/10.1007/s10489-022-03896-4)                               |
@@ -178,5 +180,6 @@ Welcome contributions!
 - Deeplearning Monitor: https://deeplearn.org
 - OpenReview: https://openreview.net
 - OpenResearch: https://www.openresearch.org
+
 
 
