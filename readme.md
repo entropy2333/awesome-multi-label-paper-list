@@ -25,6 +25,7 @@ Welcome contributions!
     - [Few/Zero Shot](#fewzero-shot)
     - [Others](#others)
   - [Related Resources](#related-resources)
+  - [Star History](#star-history)
 
 ## Datasets
 
@@ -40,7 +41,7 @@ Welcome contributions!
 |  CV  |    MS-COCO    | Microsoft COCO: Common Objects in Context                                      |        [[link]](https://paperswithcode.com/paper/microsoft-coco-common-objects-in-context)        |
 |  MM  |     M3ED      | M3ED: Multi-modal Multi-scene Multi-label Emotional Dialogue Database          |        [[link]](https://paperswithcode.com/paper/m3ed-multi-modal-multi-scene-multi-label)        |
 | NLP  |      BGC      | Hierarchical Multi-label Classification of Text with Capsule Networks          | [[link]](https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/data/blurb-genre-collection.html) |
-| NLP  |   MIMIC-III   | MIMIC-III, a freely accessible critical care database                          |                      [[link]](https://paperswithcode.com/dataset/mimic-iii)                       | 
+| NLP  |   MIMIC-III   | MIMIC-III, a freely accessible critical care database                          |                      [[link]](https://paperswithcode.com/dataset/mimic-iii)                       |
 
 ## Survey
 
@@ -181,5 +182,6 @@ Welcome contributions!
 - OpenReview: https://openreview.net
 - OpenResearch: https://www.openresearch.org
 
+## Star History
 
-
+[![Star History Chart](https://api.star-history.com/svg?repos=entropy2333/awesome-multi-label-paper-list&type=Date)](https://star-history.com/#entropy2333/awesome-multi-label-paper-list&Date)
